@@ -18,3 +18,21 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+# Logs
+*.log
+
+# Secrets
+.env
+.secrets/
+*.key
+*.pem
+
+# Backups
+*.bak
+*.old
+*.orig
+*.tmp
+
+# Kilo
+.kilo/
